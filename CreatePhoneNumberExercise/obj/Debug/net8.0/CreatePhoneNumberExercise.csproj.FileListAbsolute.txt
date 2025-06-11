@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\bin\Debug\net8.0\CreatePhoneNumberExercise.exe
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\bin\Debug\net8.0\CreatePhoneNumberExercise.deps.json
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\bin\Debug\net8.0\CreatePhoneNumberExercise.runtimeconfig.json
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\bin\Debug\net8.0\CreatePhoneNumberExercise.dll
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\bin\Debug\net8.0\CreatePhoneNumberExercise.pdb
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\CreatePhoneNumberExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\CreatePhoneNumberExercise.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\CreatePhoneNumberExercise.AssemblyInfo.cs
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\CreatePhoneNumberExercise.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\CreatePhoneNumberExercise.dll
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\refint\CreatePhoneNumberExercise.dll
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\CreatePhoneNumberExercise.pdb
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\CreatePhoneNumberExercise.genruntimeconfig.cache
+C:\Users\louag\source\repos\CreatePhoneNumberExercise\CreatePhoneNumberExercise\obj\Debug\net8.0\ref\CreatePhoneNumberExercise.dll
