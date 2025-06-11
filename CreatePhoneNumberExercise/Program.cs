@@ -24,20 +24,17 @@ internal class Program
         if (numbers.Length < 10) 
             return "";
 
-        return string.Concat(numbers.Select((x, i) =>
+        return string.Concat(numbers.Select((x, i) => ConvertToPhone(x, i)));
+    }
+
+    private static string ConvertToPhone(int x, int i)
+    {
+        return (i) switch
         {
-            switch (i)
-            {
-                case 0:
-                    return $"({x}";
-                case 2:
-                    return $"{x}) ";
-                case 6:
-                    return $"-{x}";
-                case 9:
-                    return $"{x}";
-            }
-            return $"{x}";
-        }));
+            0 => $"({x}",
+            2 => $"{x}) ",
+            6 => $"-{x}",
+            _ => $"{x}"
+        };
     }
 }
